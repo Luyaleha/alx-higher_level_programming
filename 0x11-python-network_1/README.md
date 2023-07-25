@@ -1,1 +1,0 @@
-phyton net1
